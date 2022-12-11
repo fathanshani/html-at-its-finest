@@ -7,9 +7,9 @@ body {
     background-color: #ffffff;
 }
 
-.container {
+/* .container {
 
-}
+} */
 
 .navbar-container {
     background-color: rgb(255, 0, 0);
@@ -32,6 +32,12 @@ body {
     font-size: 30px;
 }
 
+#biodata {
+    background: red;
+    width: 500px;
+    height: 500px;
+}
+
 .li-navbar:hover {
     background-color: rgb(235, 80, 80);
     transition: .4s ease-in-out;
@@ -46,7 +52,7 @@ body {
 }
 
 .content-container {
-    background-color: #f7f7f7;
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,8 +77,8 @@ body {
 }
 
 .img-content {
-    width: 50%;
-    height: 50%;
+    width: 250px;
+    height: 250px;
 }
 
 .instagram-content {
@@ -88,6 +94,6 @@ body {
 }
 
 .h1-footer {
-    font-size: 40px;
+    font-size: 10px;
     color: #ffffff;
 }
